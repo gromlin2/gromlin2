@@ -2,6 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create and Run a Protobuf Plugin 2 - Basic Data](https://medium.com/cloud-native-daily/i-built-a-protoc-plugin-in-python-heres-how-i-did-it-part-2-5104e060e42d?source=rss-c62780c42373------2)
+- [Working with many branches — Using git worktree](https://medium.com/cloud-native-daily/working-with-many-branches-using-git-worktree-94ae4a53d966?source=rss-c62780c42373------2)
+- [Why You Shouldn’t Test With Thread.sleep&lpar;&rpar;](https://medium.com/cloud-native-daily/why-is-testing-with-thread-sleep-a-bad-idea-and-what-can-you-do-instead-3aad1d26a787?source=rss-c62780c42373------2)
+- [Plugin output is unparsable —  Logging in a protobuf plugin](https://medium.com/cloud-native-daily/plugin-output-is-unparsable-logging-in-a-protobuf-plugin-b28d57e7c320?source=rss-c62780c42373------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
